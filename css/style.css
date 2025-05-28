@@ -139,10 +139,7 @@ header {
 }
 
 #disqus_thread{
-    margin: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+   padding: 15px;
 width: 50%;
 background-color: #fff;
 border-radius: 15px;
