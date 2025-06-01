@@ -113,7 +113,8 @@ border: 1px solid rgb(42, 41, 41);
     width: 100%;
     padding: 15px;
     height: 200px;
-    border-radius: 20px 20px;
+    border-radius: 10px 10px;
+  border: 1px solid  #5d5d5d;
     
 }
 .coder-texto{
